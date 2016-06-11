@@ -1,0 +1,32 @@
+#site {
+    max-width: 830px;
+    text-align: left;
+    line-height: 1.5em;
+    margin: 2.5em auto 2em;
+    padding: 0 1.5em;
+}
+
+.title {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+body {
+    font-family: Georgia, 'PT Serif', serif;
+}
+
+th {
+    vertical-align: top;
+}
+
+td {
+    padding-left: 20px;
+}
+
+table p:first-child {
+    margin-top:0px;
+} 
+
+table tr:last-child p {
+    margin-bottom:0px;
+} 
