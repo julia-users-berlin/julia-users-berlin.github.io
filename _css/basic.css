@@ -35,7 +35,7 @@ nav li a {
 }
 
 header {
-  text-align: right;
+  text-align: center;
   margin-top: 50px;
   margin-bottom: 50px;
   display: flex;
@@ -111,7 +111,7 @@ instead, display a burger menu.
 */
 @media (max-width: 500px) {
   header {
-    height: 35px;
+    height: auto;
     display: flex;
     align-items: center;
   }
