@@ -12,20 +12,20 @@
 
 **Locations :**
 
+- ### [WIAS](http://www.wias-berlin.de/contact/index.jsp?lang=1)
+
+  [Mohrenstr. 39 10117 Berlin](<https://www.openstreetmap.org/search?query=Mohrenstr>. 39 10117 Berlin#map=19/52.51266/13.39603)
+
+  Finding WIAS:
+
+  \fig{/assets/wias_location.png}
+
 - ### [Nextjournal](https://nextjournal.com/) 
 
   [Schinkestraße 9, 12047 Berlin](https://goo.gl/maps/uJwQEGuNuCm)
 
   Finding Nextjournal :
   \fig{/assets/nextjournal_theway.png}
-
-- ### [WIAS](http://www.wias-berlin.de/contact/index.jsp?lang=1)
-
-  [Mohrenstr. 39 10117 Berlin](https://www.openstreetmap.org/search?query=Mohrenstr. 39 10117 Berlin#map=19/52.51266/13.39603)
-
-  Finding WIAS:
-
-  \fig{/assets/wias_location.png}
 
 - ### [TU Berlin, Control Systems](www.control.tu-berlin.de)
 
@@ -37,9 +37,7 @@
 
 ## Contact
 
-Find us on [**Zulip**](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup).
-
-Find us on **Slack**: join the [Julia workspace](https://slackinvite.julialang.org/) (please RSVP there) and then join the channel `#berlinusergroup`.
+Find us on [**Zulip**](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup) (preferred) or [**Slack**](https://slackinvite.julialang.org/) (join the channel `#berlinusergroup`).
 
 Contribute to this site [on GitHub.](https://github.com/julia-users-berlin/julia-users-berlin.github.io).
 
