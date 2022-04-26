@@ -3,7 +3,7 @@
 
 ## Upcoming events
 
-**10.02.2022** at **18:30** at the Weierstrass Institute (WIAS). There will be a maximum of 16 participants, with 2G rule (tested beforehand) and with masks.
+**10.05.2022** at **18:30** at the Weierstrass Institute (WIAS). There will be a maximum of 16 participants, with 2G rule (tested beforehand) and with masks.
 
 **Topic** : [Lorenz](https://github.com/lorenzoh) will present his most recent work on [Pollen.jl](https://github.com/lorenzoh/Pollen.jl), a new documentation system
 
