@@ -3,7 +3,7 @@
 
 ## Upcoming events
 
-**10.02.2022** at **18:30** at the Weierstrass Institue (WIAS). There will be a maximum of 16 participants, with 2G rule (tested beforehand) and with masks.
+**10.02.2022** at **18:30** at the Weierstrass Institute (WIAS). There will be a maximum of 16 participants, with 2G rule (tested beforehand) and with masks.
 
 **Topic** : [Lorenz](https://github.com/lorenzoh) will present his most recent work on [Pollen.jl](https://github.com/lorenzoh/Pollen.jl), a new documentation system
 
@@ -48,7 +48,7 @@ You may also find Julia users at the Data Science Co-Learning meeting of [OpenTe
 
 | Date       |       Event       |                            Topics                            | Location                                                     |
 | ---------- | :---------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| 10.02.2021 | Meet-up |  Mathieu Besancon presentes sone work on JuMP and differentiable optimization |  Gather.Town |
+| 10.02.2021 | Meet-up |  Mathieu Besancon presented some work on JuMP and differentiable optimization |  Gather.Town |
 | 08.09.2020 | Meet-up | Fons was sick but still gave an online presentation of the recent developments on Pluto.jl | WIAS |
 | 11.02.2020 |      Meet-up      | We met and had a Package Club, i.e., people talked briefly about their favourite packages, e.g., MLJ or Franklin.jl, DrWatson.jl, Simon's smarthome with Julia, Jürgen's multithreading experiment, PowerDynamics.jl and more | WIAS                                                         |
 | 14.01.2020 |  Co-working day   | For everybody who is working with Julia. We worked separately on our own projects, had some discussions and lunch together. So you were welcome to spend a regular remote working day with us! | TU Berlin                                                    |
