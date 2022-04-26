@@ -47,6 +47,7 @@ You may also find Julia users at the Data Science Co-Learning meeting of [OpenTe
 
 | Date       |       Event       |                            Topics                            | Location                                                     |
 | ---------- | :---------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| 08.09.2020 | Meet-up | Fons was sick but still gave an online presentation of the recent developments on Pluto.jl | WIAS |
 | 11.02.2020 |      Meet-up      | We met and had a Package Club, i.e., people talked briefly about their favourite packages, e.g., MLJ or Franklin.jl, DrWatson.jl, Simon's smarthome with Julia, Jürgen's multithreading experiment, PowerDynamics.jl and more | WIAS                                                         |
 | 14.01.2020 |  Co-working day   | For everybody who is working with Julia. We worked separately on our own projects, had some discussions and lunch together. So you were welcome to spend a regular remote working day with us! | TU Berlin                                                    |
 | 14.01.2020 |      Meet-up      | [Lia](http://www.control.tu-berlin.de/User:Lia_Strenge) gave a talk about "A multilayer, multi-timescale model approach for economic and frequency control in power grids using Julia" | TU Berlin                                                    |
