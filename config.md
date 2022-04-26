@@ -14,7 +14,7 @@ ignore = ["node_modules/"]
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
 website_title = "Julia Users Berlin"
-website_descr = ""
+website_descr = "Meetings and Events for the Berlin Julia Community"
 website_url   = "https://julia-users-berlin.github.io/"
 +++
 
