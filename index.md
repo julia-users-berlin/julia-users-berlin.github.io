@@ -15,7 +15,7 @@
 
 - ### [WIAS](https://www.wias-berlin.de/)
 
-  [Mohrenstr. 39 10117 Berlin](<https://www.openstreetmap.org/search?query=Mohrenstr>. 39 10117 Berlin#map=19/52.51266/13.39603)
+  [Mohrenstr. 39 10117 Berlin](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
 
   Finding WIAS:
 
