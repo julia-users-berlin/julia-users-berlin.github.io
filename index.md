@@ -48,7 +48,6 @@ You may also find Julia users at the Data Science Co-Learning meeting of [OpenTe
 | Date       |       Event       |                            Topics                            | Location                                                     |
 | ---------- | :---------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
 |10.05.2022 | Meet-up | [Lorenz](https://github.com/lorenzoh) presented his most recent work on [Pollen.jl](https://github.com/lorenzoh/Pollen.jl), a new documentation system | WIAS |
-**Topic** : [Lorenz](https://github.com/lorenzoh) will present his most recent work on [Pollen.jl](https://github.com/lorenzoh/Pollen.jl), a new documentation system
 | 10.02.2021 | Meet-up |  Mathieu Besancon presented some work on JuMP and differentiable optimization |  Gather.Town |
 | 08.09.2020 | Meet-up | Fons was sick but still gave an online presentation of the recent developments on Pluto.jl | WIAS |
 | 11.02.2020 |      Meet-up      | We met and had a Package Club, i.e., people talked briefly about their favourite packages, e.g., MLJ or Franklin.jl, DrWatson.jl, Simon's smarthome with Julia, Jürgen's multithreading experiment, PowerDynamics.jl and more | WIAS                                                         |
