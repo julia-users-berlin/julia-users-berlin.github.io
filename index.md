@@ -47,6 +47,7 @@ You may also find Julia users at the Data Science Co-Learning meeting of [OpenTe
 
 | Date       |       Event       |                            Topics                            | Location                                                     |
 | ---------- | :---------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| 14.02.2022 | Social | We discussed the popularity of Julia | WIAS |
 |10.05.2022 | Meet-up | [Lorenz](https://github.com/lorenzoh) presented his most recent work on [Pollen.jl](https://github.com/lorenzoh/Pollen.jl), a new documentation system | WIAS |
 | 10.02.2021 | Meet-up |  Mathieu Besancon presented some work on JuMP and differentiable optimization |  Gather.Town |
 | 08.09.2020 | Meet-up | Fons was sick but still gave an online presentation of the recent developments on Pluto.jl | WIAS |
