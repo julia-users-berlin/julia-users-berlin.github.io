@@ -3,12 +3,13 @@
 
 ## Upcoming events
 
-**JuliaCon Gathering**. We will meet at the [Gleisdreick park](https://goo.gl/maps/ZN7zrusrBYTtS1Ug8) to watch and discuss some of the videos of [Juliacon](https://live.juliacon.org/).
-The meeting point is in front of BRLO at **17:00** on the **29th of July**. We will set up our camp nearby (probably just a bit south, past the u bahn track). We should be easy to locate with our collection of computers! Bring your own booze and food!
+**Meetup 14th of March**. We will meet at the [Weierstrass Institute](https://goo.gl/maps/ZN7zrusrBYTtS1Ug8) for an informal session.
+We will have some show and tell, and discussions around the Julia programming language.
+The meeting will start at **18:30**
 
 ## Regular meeting
 
-**Date/Time :** In non-Corona times, we usually meet every 2nd Tuesday of the month at 18:30
+**Date/Time :** We usually meet every 2nd Tuesday of the month at 18:30
 
 **Locations :**
 
@@ -47,9 +48,9 @@ You may also find Julia users at the Data Science Co-Learning meeting of [OpenTe
 
 | Date       |       Event       |                            Topics                            | Location                                                     |
 | ---------- | :---------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| 14.02.2023 | Social | We discussed the popularity of Julia | WIAS |
+| 14.02.2023 | Social | We discussed the popularity of Julia and other social aspects of the language | WIAS |
 | 29.07.2022 | JuliaCon | We met in Gleisdreieck to watch a few of the JuliaCon talks | WIAS |
-|10.05.2022 | Meet-up | [Lorenz](https://github.com/lorenzoh) presented his most recent work on [Pollen.jl](https://github.com/lorenzoh/Pollen.jl), a new documentation system | WIAS |
+| 10.05.2022 | Meet-up | [Lorenz](https://github.com/lorenzoh) presented his most recent work on [Pollen.jl](https://github.com/lorenzoh/Pollen.jl), a new documentation system | WIAS |
 | 10.02.2021 | Meet-up |  Mathieu Besancon presented some work on JuMP and differentiable optimization |  Gather.Town |
 | 08.09.2020 | Meet-up | Fons was sick but still gave an online presentation of the recent developments on Pluto.jl | WIAS |
 | 11.02.2020 |      Meet-up      | We met and had a Package Club, i.e., people talked briefly about their favourite packages, e.g., MLJ or Franklin.jl, DrWatson.jl, Simon's smarthome with Julia, Jürgen's multithreading experiment, PowerDynamics.jl and more | WIAS                                                         |
