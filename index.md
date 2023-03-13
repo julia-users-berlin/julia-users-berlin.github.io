@@ -3,7 +3,7 @@
 
 ## Upcoming events
 
-**Meetup 14th of March**. We will meet at the [Weierstrass Institute](https://goo.gl/maps/ZN7zrusrBYTtS1Ug8) for an informal session.
+**Meetup 14th of March**. We will meet at the [Weierstrass Institute](https://goo.gl/maps/v8o2CuL4NPgbWKBj9) for an informal session.
 We will have some show and tell, and discussions around the Julia programming language.
 The meeting will start at **18:30**
 
