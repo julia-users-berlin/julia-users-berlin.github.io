@@ -1,9 +1,9 @@
 @def title = "Julia Berlin Users"
----
 
 ## Upcoming events
 
-**Meetup 14th of March**. We will meet at the [Weierstrass Institute](https://goo.gl/maps/v8o2CuL4NPgbWKBj9) for an informal session.
+**Meetup 11th of April**. We will meet at the [Weierstrass Institute](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
+for another informal session.
 We will have some show and tell, and discussions around the Julia programming language.
 The meeting will start at **18:30**
 
@@ -11,9 +11,9 @@ The meeting will start at **18:30**
 
 **Date/Time :** We usually meet every 2nd Tuesday of the month at 18:30
 
-**Locations :**
+## Locations
 
-- ### [WIAS](https://www.wias-berlin.de/)
+### [WIAS](https://www.wias-berlin.de/)
 
   [Mohrenstr. 39 10117 Berlin](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
 
@@ -21,14 +21,14 @@ The meeting will start at **18:30**
 
   \fig{/assets/wias_location.png}
 
-- ### [Nextjournal](https://nextjournal.com/) 
+### [Nextjournal](https://nextjournal.com/)
 
   [Schinkestraße 9, 12047 Berlin](https://goo.gl/maps/uJwQEGuNuCm)
 
   Finding Nextjournal :
   \fig{/assets/nextjournal_theway.png}
 
-- ### [TU Berlin, Control Systems](www.control.tu-berlin.de)
+### [TU Berlin, Control Systems](www.control.tu-berlin.de)
 
   [Einsteinufer 17, 10587 Berlin](https://www.openstreetmap.org/way/26499336#map=18/52.51505/13.32682)
 
@@ -48,6 +48,7 @@ You may also find Julia users at the Data Science Co-Learning meeting of [OpenTe
 
 | Date       |       Event       |                            Topics                            | Location                                                     |
 | ---------- | :---------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| 14.03.2023 | Meet-up | We had a show and tell session, with some work on a Julia version of Matlab's PDEPE: [SkeelBerzins](https://github.com/gregoirepourtier/SkeelBerzins.jl), a presentation on some of Julia differential equation solvere ecosystem, a converter from Jupyter to Pluto [JupyterPlutoConverter.jl](https://github.com/adrhill/JupyterPlutoConverter.jl) and an image transformer: [DeepFry](https://github.com/JuliaWTF/DeepFry.jl) | WIAS |
 | 14.02.2023 | Social | We discussed the popularity of Julia and other social aspects of the language | WIAS |
 | 29.07.2022 | JuliaCon | We met in Gleisdreieck to watch a few of the JuliaCon talks | WIAS |
 | 10.05.2022 | Meet-up | [Lorenz](https://github.com/lorenzoh) presented his most recent work on [Pollen.jl](https://github.com/lorenzoh/Pollen.jl), a new documentation system | WIAS |
