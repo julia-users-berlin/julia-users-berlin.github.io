@@ -34,3 +34,47 @@
   event: Meet-up
   location: TU Berlin
   topic: "[Lia](http://www.control.tu-berlin.de/User:Lia_Strenge) gave a talk about: A multilayer, multi-timescale model approach for economic and frequency control in power grids using Julia"
+- date: 10.12.2019
+  event: Meet-up
+  location: WIAS
+  topic:  "[Jürgen](https://github.com/j-fu) will give an introduction to the solution of partial differential equations using the finite volume method and discuss his package [VoronoiFVM.jl](https://github.com/j-fu/VoronoiFVM.jl)"
+- date: 23.11.2019
+  event: "Beginner workshop"
+  location: "[co.up community](http://co-up.de/about.html#location)"
+  topic: "For everybody who is interested in learning Julia. More information on [meetup.com](https://www.meetup.com/de-DE/opentechschool-berlin/events/266022112/)."
+- date: 05.11.2019
+  event: Meet-up
+  location: WIAS
+  topic: "[Chris](https://github.com/chrisrackauckas) talked about ideas for common ground between meshes for PDEs and graphics."
+- date: 10.09.2019
+  event: Meet-up
+  location: NextJournal
+  topic: "[Simon](https://github.com/BeastyBlacksmith) explained how bacteria find their center and showed how to match experiments with Julia."
+- date: 07.08.2019
+  event: Meet-up
+  location: NextJournal
+  topic: "[Benoît](https://github.com/blegat) gave a talk about things related to [JuMP](https://github.com/JuliaOpt/JuMP.jl). [Marcelo](https://github.com/mforets) gave a short presentation of the github org [JuliaReach](https://juliareach.github.io/JuliaReach-website/) ([slides here](https://nbviewer.jupyter.org/github/mforets/escritoire/blob/master/talks/JuliaMeetup_Berlin_2019/Talk_Berlin_Julia_Users_Group_2019.slides.html#/))"
+- date: 14.05.2019
+  event: Meet-up
+  location: NextJournal
+  topic: "[Sebastian](https://github.com/pfitzseb) showcased the recent progress on a Julia debugger (JuliaInterpreter.jl, Debugger.jl, and Juno integration)."
+- date: 09.04.2019
+  event: "Lean Cafe"
+  location: NextJournal
+  topic: "Discussions about GUI frameworks and related topics."
+- date: 12.03.2019
+  event: Meet-up
+  location: NextJournal
+  topic: "[Sascha](https://github.com/saschatimme) presented [HomotopyContinuation.jl](https://www.juliahomotopycontinuation.org/) and other work related to solving polynomial equation systems."
+- date: 12.02.2019
+  event: Meet-up
+  location: NextJournal
+  topic: "[Simon](https://github.com/SimonDanisch) presented his recent progress on [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl)."
+- date: 15.01.2019
+  event: Meet-up
+  location: NextJournal
+  topic: "[Théo](https://github.com/theogf) talked about the newest developments of [AugmentedGaussianProcesses.jl](https://github.com/theogf/AugmentedGaussianProcesses.jl), which is an efficient framework for Gaussian Processes. He gave an introduction on Gaussian Processes and on how can we use them for most supervised problems (regression, classification) in a very efficient way using data augmentation. [Slides of his presentation.](https://docs.google.com/presentation/d/1c5DZlq0rZUyELFPgI4bl0Lw7uUAuDLTHsCE7u-jkZG0/edit?usp=sharing)"
+- date: 21.11.2018
+  event: Meet-up
+  location: NextJournal
+  topic: "[Simon](https://simondanisch.jimdo.com/) talked about the newest developments of [Makie](https://github.com/JuliaPlots/Makie.jl). Maki-e is a high-performance, extendable, and multi-platform plotting package for Julia. Having mastered many technical challenges for the implementation, he now focuses on making it more user-friendly and your input is highly appreciated."
