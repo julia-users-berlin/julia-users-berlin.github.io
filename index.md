@@ -4,8 +4,6 @@
 
 TBA!
 
-\tableofcontents
-
 ## Regular meeting
 
 **Date/Time :** We usually meet every 2nd Tuesday of the month at 18:30
