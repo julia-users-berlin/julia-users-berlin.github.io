@@ -78,3 +78,51 @@
   event: Meet-up
   location: NextJournal
   topic: "[Simon](https://simondanisch.jimdo.com/) talked about the newest developments of [Makie](https://github.com/JuliaPlots/Makie.jl). Maki-e is a high-performance, extendable, and multi-platform plotting package for Julia. Having mastered many technical challenges for the implementation, he now focuses on making it more user-friendly and your input is highly appreciated."
+- date: 27.02.2018
+  event: Tuesday coworking
+  location: "[tuesday coworking](www.tuesdaycoworking.com)"
+  topic: "Lorenzo talked about nonsmooth optimization using proximal algorithms in Julia, in particular his work on the packages [ProximalOperators.jl](https://github.com/kul-forbes/ProximalOperators.jl) and [ProximalAlgorithms.jl](https://github.com/kul-forbes/ProximalAlgorithms.jl). The first one implements first order primitives for a variety of functions that can be used to express problems, the second one relies on the first and contains generic implementations of various well-known iterative methods in convex optimization. He also told us of his plans to develop a generic mathematical modelling language for numerical optimisation tasks."
+- date: 05.12.2017
+  event: Meet-up
+  location: "The Factory Berlin"
+  topic: "David gave an overall introduction to the [JuliaGPU](https://github.com/JuliaGPU) project, with a focus on [OpenCL](https://github.com/JuliaGPU/OpenCL.jl). Simon followed this with an introduction to the [GPUArrays](https://github.com/JuliaGPU/GPUArrays.jl) interface and [CLArrays](https://github.com/JuliaGPU/CLArrays.jl), which he has worked on, as simple ways to offload your matrix arithmetic to the GPU"
+- date: 07.11.2017
+  event: Meet-up
+  location: "The Factory Berlin"
+  topic: "Dirk presented [his work on TransitmapSolver.jl](https://github.com/dirkschumacher/TransitmapSolver.jl), which is used to [draw transit maps](https://github.com/public-transport/generating-transit-maps) automatically. Simon gave us an update on [GLVisualize](https://github.com/JuliaGL/GLVisualize.jl)."
+- date: 30.06.2017
+  event: Talks
+  location: "PyData Berlin 2017"
+  topic: "David and Robert gave a workshop on [Julia for Data Science](https://github.com/daveh19/pydataberlin2017). Hector gave a talk on his [Shearlets](https://github.com/arsenal9971/Shearlab.jl) toolbox."
+- date: 24.04.2017
+  event: Meet-up
+  location: "The Factory Berlin"
+  topic: "Robert presented an overview of optimisation tools which fall under the [JuliaOpt](http://www.juliaopt.org/) umbrella. Following this he went into detail on [JuMP](https://github.com/JuliaOpt/JuMP.jl), a package to which he is a contributor."
+- date: 27.02.2017
+  event: Meet-up
+  location: "The Factory Berlin"
+  topic: "Hector spoke about using Julia for mathematical applications, using his Julia packages for [Wavelets](https://github.com/arsenal9971/FWT.jl) and [Shearlets](https://github.com/arsenal9971/Shearlab.jl), in a talk entitled *Filter-based implementation of Fast Wavelet and Shearlet transform in Julia*. We also briefly discussed our plans for hosting an Introduction to Julia workshop aimed at numerically literate users. And we had an informal overview discussion of parallelisation using Julia."
+- date: 06.12.2016
+  event: Meet-up
+  location: "The Factory Berlin"
+  topic: "Simon introduced [GLVisualize](https://github.com/JuliaGL/GLVisualize.jl) meanwhile Cristina demonstrated [Molcajete.jl](https://github.com/xmunoz/Molcajete.jl) a program which she wrote for accessing the Meet-up API in order to schedule non-clashing meet-ups. We also had our first disucssion of plans for hosting an introduction to Julia workshop."
+- date: 03.10.2016
+  event: Meet-up
+  location: "The Factory Berlin"
+  topic: "Robert presented the [Plots.jl](https://github.com/tbreloff/Plots.jl) package and Vinny introduced us to some machine learning applications and embedding in a jupyter dashboard."
+- date: 18.08.2016
+  event: Meet-up
+  location: "The Factory Berlin"
+  topic: "David presented a neuronal network simulator, written entirely in Julia. The focus was on what design choices were enforced/enabled by the use of Julia"
+- date: 09.06.2016
+  event: Meet-up
+  location: "St. Oberholz (Rosenthaler Platz)"
+  topic: "Our kick-off meeting, following PyData 2016. [Miles Lubin](http://www.mit.edu/~mlubin/), co-author of [JuMP](https://github.com/JuliaOpt/JuMP.jl) library and a founder of [JuliaOpt](https://github.com/JuliaOpt), was visiting and attended. We discussed a number of topics about the state of Julia, the development behind the scenes, of course some numerical optimisation topics, and the organisation of the meet-up."
+- date: 21.05.2016
+  event: Talks
+  location: "PyData Berlin 2016"
+  topic: "David gave a talk on [Julia for Python programmers](https://pydata.org/berlin2016/schedule/presentation/15/)."
+- date: 26.03.2015
+  event: Meet-up
+  location: "St. Oberholz (Rosenthaler Platz)"
+  topic: "Our very first meet-up in Berlin. [Viral Shah](https://github.com/viralbshah) was in Germany on business and attended. [Simon Danisch](https://github.com/SimonDanisch) also made the trip to Berlin, and has subsequently moved here to join us more permanently."
