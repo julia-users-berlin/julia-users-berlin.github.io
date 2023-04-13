@@ -14,6 +14,8 @@ The meeting will start at **18:30**
 ## Discussion topics
 
 We keep an active list of topics we are interestd to discuss during our meetups.
+The list is hosted on [HackMD.io](https://hackmd.io) and can be directly commented
+on from this page.
 
 ~~~
 <div style="position:relative;">
