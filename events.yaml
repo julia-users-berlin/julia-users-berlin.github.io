@@ -1,8 +1,36 @@
 - date: 14.03.2023
   event: Meet-up
   location: WIAS
-  topic: "We had a show and tell session, with some work on a Julia version of Matlab's PDEPE: [SkeelBerzins](https://github.com/gregoirepourtier/SkeelBerzins.jl), a presentation on some of Julia differential equation solvere ecosystem, a converter from Jupyter to Pluto [JupyterPlutoConverter.jl](https://github.com/adrhill/JupyterPlutoConverter.jl) and an image transformer: [DeepFry](https://github.com/JuliaWTF/DeepFry.jl)"
+  topic: "We had a show and tell session, with some work on a Julia version of Matlab's PDEPE: [SkeelBerzins](https://github.com/gregoirepourtier/SkeelBerzins.jl), a presentation on some of Julia differential equation solvere ecosystem, a converter from Jupyter to Pluto [JupyterPlutoConverter.jl](https://github.com/adrhill/JupyterPlutoConverter.jl) and an image transformer: [DeepFry](https://github.com/JuliaWTF/DeepFry.jl)."
 - date: 14.02.2023
   event: Social
   location: WIAS
-  topic: "We discussed the popularity of Julia and other social aspects of the language"
+  topic: "We discussed the popularity of Julia and other social aspects of the language."
+- date: 29.07.2022
+  event: JuliaCon
+  location: Gleisdreieck
+  topic: "We met in Gleisdreieck to watch a few of the JuliaCon talks."
+- date: 10.05.2022
+  event: Meet-up
+  location: WIAS
+  topic: "[Lorenz](https://github.com/lorenzoh) presented his most recent work on [Pollen.jl](https://github.com/lorenzoh/Pollen.jl), a new documentation system."
+- date: 10.02.2021
+  event: Meet-up
+  location: Gather.town
+  topic: "[Mathieu Besancon](https://matbesancon.xyz) presented some work on JuMP and differentiable optimization"
+- date: 08.09.2020
+  event: Meet-up
+  location: WIAS
+  topic: "Fons was sick but still gave an online presentation of the recent developments on [Pluto.jl](https://github.com/fonsp/Pluto.jl)"
+- date: 11.02.2020
+  event: Meet-up
+  location: WIAS
+  topic: "We met and had a Package Club, i.e., people talked briefly about their favourite packages, e.g., [MLJ](https://github.com/alan-turing-institute/MLJ.jl), [Franklin.jl](https://github.com/tlienart/Franklin.jl), [DrWatson.jl](https://github.com/JuliaDynamics/DrWatson.jl), Simon's smarthome with Julia, Jürgen's multithreading experiment, [PowerDynamics.jl](https://github.com/JuliaEnergy/PowerDynamics.jl) and more"
+- date: 14.01.2020
+  event: Co-working day
+  location: TU Berlin
+  topic: "We worked separately on our own projects, had some discussions and lunch together. So you were welcome to spend a regular remote working day with us!"
+- date: 14.01.2020
+  event: Meet-up
+  location: TU Berlin
+  topic: "[Lia](http://www.control.tu-berlin.de/User:Lia_Strenge) gave a talk about: A multilayer, multi-timescale model approach for economic and frequency control in power grids using Julia"

@@ -54,13 +54,6 @@ You may also find Julia users at the Data Science Co-Learning meeting of [OpenTe
 
 | Date       |       Event       |                            Topics                            | Location                                                     |
 | ---------- | :---------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| 14.03.2023 | Meet-up | We had a show and tell session, with some work on a Julia version of Matlab's PDEPE: [SkeelBerzins](https://github.com/gregoirepourtier/SkeelBerzins.jl), a presentation on some of Julia differential equation solvere ecosystem, a converter from Jupyter to Pluto [JupyterPlutoConverter.jl](https://github.com/adrhill/JupyterPlutoConverter.jl) and an image transformer: [DeepFry](https://github.com/JuliaWTF/DeepFry.jl) | WIAS |
-| 14.02.2023 | Social | We discussed the popularity of Julia and other social aspects of the language | WIAS |
-| 29.07.2022 | JuliaCon | We met in Gleisdreieck to watch a few of the JuliaCon talks | WIAS |
-| 10.05.2022 | Meet-up | [Lorenz](https://github.com/lorenzoh) presented his most recent work on [Pollen.jl](https://github.com/lorenzoh/Pollen.jl), a new documentation system | WIAS |
-| 10.02.2021 | Meet-up |  Mathieu Besancon presented some work on JuMP and differentiable optimization |  Gather.Town |
-| 08.09.2020 | Meet-up | Fons was sick but still gave an online presentation of the recent developments on Pluto.jl | WIAS |
-| 11.02.2020 |      Meet-up      | We met and had a Package Club, i.e., people talked briefly about their favourite packages, e.g., MLJ or Franklin.jl, DrWatson.jl, Simon's smarthome with Julia, Jürgen's multithreading experiment, PowerDynamics.jl and more | WIAS                                                         |
 | 14.01.2020 |  Co-working day   | For everybody who is working with Julia. We worked separately on our own projects, had some discussions and lunch together. So you were welcome to spend a regular remote working day with us! | TU Berlin                                                    |
 | 14.01.2020 |      Meet-up      | [Lia](http://www.control.tu-berlin.de/User:Lia_Strenge) gave a talk about "A multilayer, multi-timescale model approach for economic and frequency control in power grids using Julia" | TU Berlin                                                    |
 | 10.12.2019 |      Meet-up      | [Jürgen](https://github.com/j-fu) will give an introduction to the solution of partial differential equations using the finite volume method and discuss his package [VoronoiFVM.jl](https://github.com/j-fu/VoronoiFVM.jl). | WIAS                                                         |
