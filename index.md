@@ -10,6 +10,18 @@ TBA!
 
 **Date/Time :** We usually meet every 2nd Tuesday of the month at 18:30
 
+## Discussion topics
+
+We keep an active list of topics we are interestd to discuss during our meetups.
+The list is hosted on [HackMD.io](https://hackmd.io) and can be directly commented
+on from this page.
+
+~~~
+<div style="position:relative;">
+<iframe width="100%" height="500" src="https://hackmd.io/@julia-users-berlin/S10FlyVz2" frameborder="0"></iframe>
+</div>
+~~~
+
 ## Locations
 
 ### [WIAS](https://www.wias-berlin.de/)
