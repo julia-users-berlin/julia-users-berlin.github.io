@@ -7,6 +7,8 @@ for another informal session.
 We will have some show and tell, and discussions around the Julia programming language.
 The meeting will start at **18:30**
 
+\tableofcontents
+
 ## Regular meeting
 
 **Date/Time :** We usually meet every 2nd Tuesday of the month at 18:30
@@ -43,6 +45,10 @@ Find us on [**Zulip**](https://julialang.zulipchat.com/#narrow/stream/249782-ber
 Contribute to this site [on GitHub.](https://github.com/julia-users-berlin/julia-users-berlin.github.io).
 
 You may also find Julia users at the Data Science Co-Learning meeting of [OpenTechSchool](https://www.meetup.com/de-DE/opentechschool-berlin/events/rrpsdqyxpbmc/).
+
+## Past meetings
+
+{{ event_table }}
 
 ## Past Meetings
 

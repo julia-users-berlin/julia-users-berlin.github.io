@@ -1,0 +1,8 @@
+- date: 14.03.2023
+  event: Meet-up
+  location: WIAS
+  topic: "We had a show and tell session, with some work on a Julia version of Matlab's PDEPE: [SkeelBerzins](https://github.com/gregoirepourtier/SkeelBerzins.jl), a presentation on some of Julia differential equation solvere ecosystem, a converter from Jupyter to Pluto [JupyterPlutoConverter.jl](https://github.com/adrhill/JupyterPlutoConverter.jl) and an image transformer: [DeepFry](https://github.com/JuliaWTF/DeepFry.jl)"
+- date: 14.02.2023
+  event: Social
+  location: WIAS
+  topic: "We discussed the popularity of Julia and other social aspects of the language"
