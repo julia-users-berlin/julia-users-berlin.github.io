@@ -30,13 +30,6 @@ on from this page.
 
   \fig{/assets/wias_location.png}
 
-### [Nextjournal](https://nextjournal.com/)
-
-  [Schinkestraße 9, 12047 Berlin](https://goo.gl/maps/uJwQEGuNuCm)
-
-  Finding Nextjournal :
-  \fig{/assets/nextjournal_theway.png}
-
 ### [TU Berlin, Control Systems](www.control.tu-berlin.de)
 
   [Einsteinufer 17, 10587 Berlin](https://www.openstreetmap.org/way/26499336#map=18/52.51505/13.32682)
@@ -50,8 +43,6 @@ on from this page.
 Find us on [**Zulip**](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup) (preferred) or [**Slack**](https://slackinvite.julialang.org/) (join the channel `#berlinusergroup`).
 
 Contribute to this site [on GitHub.](https://github.com/julia-users-berlin/julia-users-berlin.github.io).
-
-You may also find Julia users at the Data Science Co-Learning meeting of [OpenTechSchool](https://www.meetup.com/de-DE/opentechschool-berlin/events/rrpsdqyxpbmc/).
 
 ## Past meetings
 
