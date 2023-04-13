@@ -2,10 +2,7 @@
 
 ## Upcoming events
 
-**Meetup 11th of April**. We will meet at the [Weierstrass Institute](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
-for another informal session.
-We will have some show and tell, and discussions around the Julia programming language.
-The meeting will start at **18:30**
+TBA!
 
 \tableofcontents
 
