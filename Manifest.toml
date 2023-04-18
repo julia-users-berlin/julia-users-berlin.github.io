@@ -84,9 +84,9 @@ version = "0.4.2"
 
 [[Franklin]]
 deps = ["Dates", "DelimitedFiles", "DocStringExtensions", "ExprTools", "FranklinTemplates", "HTTP", "Literate", "LiveServer", "Logging", "Markdown", "NodeJS", "OrderedCollections", "Pkg", "REPL", "Random", "TOML"]
-git-tree-sha1 = "ec2713a67c9bff816a604ada4883fd82db1c1a26"
+git-tree-sha1 = "f78df1366e57665e06f4a0a161a52f2c0d0bf1f3"
 uuid = "713c75ef-9fc9-4b05-94a9-213340da978e"
-version = "0.10.80"
+version = "0.10.81"
 
 [[FranklinTemplates]]
 deps = ["LiveServer"]
