@@ -2,8 +2,8 @@
 
 ## Upcoming events
 
-**9th of May**, 19:00 at C-Base! We change location but not the date.
-We will have our first meeting in C-Base, talks and topics TBA!
+**9th of May**, 19:00 at c-base! We change location but not the date.
+We will have our first meeting in c-base, talks and topics TBA!
 
 ## Regular meeting
 
@@ -23,7 +23,7 @@ on from this page.
 
 ## Locations
 
-### [C-Base](https://c-base.org)
+### [c-base](https://c-base.org)
 
   [Rungestraße 20, 10179 Berlin](https://goo.gl/maps/QWKse8LcxxS8G1kM8)
 
