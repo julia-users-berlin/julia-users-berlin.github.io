@@ -3,7 +3,9 @@
 ## Upcoming events
 
 **9th of May**, 19:00 at c-base! We change location but not the date.
-We will have our first meeting in c-base, talks and topics TBA!
+We will have our first meeting in c-base!
+
+We plan to discuss about the latest 1.9 release of Julia and what it brings, and if the time allow there will be a small demo on how to debug your code efficiently.
 
 ## Regular meeting
 
