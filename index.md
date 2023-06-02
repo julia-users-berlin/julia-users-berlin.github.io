@@ -2,7 +2,7 @@
 
 ## Upcoming events
 
-**14th of June**, 19:00 at c-base! Topic to be confirmed!
+**13th of June**, 19:00 at c-base! Topic to be confirmed!
 
 ## Regular meeting
 
