@@ -8,7 +8,7 @@ where she was using mainly [DifferentialEquations.jl](https://github.com/SciML/D
 
 ## Regular meeting
 
-**Date/Time :** We usually meet every 2nd Tuesday of the month at 18:30
+**Date/Time :** We usually meet every 2nd Tuesday of the month at 19:00
 
 ## Discussion topics
 
