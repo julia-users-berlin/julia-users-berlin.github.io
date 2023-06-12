@@ -190,9 +190,9 @@ version = "2.14.0"
 
 [[LiveServer]]
 deps = ["HTTP", "MIMEs", "Pkg", "Sockets"]
-git-tree-sha1 = "557e48aa71f59cedd2c079f2e82a7f4a14fb96ee"
+git-tree-sha1 = "f0eccc4b6c9b8446cc6bd3e8db9785f87d8b8f83"
 uuid = "16fef848-5104-11e9-1b77-fb7a48bbb589"
-version = "1.1.2"
+version = "1.1.3"
 
 [[Logging]]
 uuid = "56ddb016-857b-54e1-b83d-db4d58db5568"
@@ -278,9 +278,9 @@ version = "1.4.2"
 
 [[PrecompileTools]]
 deps = ["Preferences"]
-git-tree-sha1 = "259e206946c293698122f63e2b513a7c99a244e8"
+git-tree-sha1 = "9673d39decc5feece56ef3940e5dafba15ba0f81"
 uuid = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
-version = "1.1.1"
+version = "1.1.2"
 
 [[Preferences]]
 deps = ["TOML"]
@@ -406,9 +406,9 @@ uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
 
 [[YAML]]
 deps = ["Base64", "Dates", "Printf", "StringEncodings"]
-git-tree-sha1 = "dbc7f1c0012a69486af79c8bcdb31be820670ba2"
+git-tree-sha1 = "e6330e4b731a6af7959673621e91645eb1356884"
 uuid = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
-version = "0.4.8"
+version = "0.4.9"
 
 [[Zlib_jll]]
 deps = ["Libdl"]
