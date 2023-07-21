@@ -2,7 +2,7 @@
 
 ## Upcoming events
 
-**11th of July**, 19:00 at c-base! [Adrian](https://github.com/adrhill) will be presenting the course on [Julia for Machine Learning](https://github.com/adrhill/julia-ml-course).
+{{ front_message }}
 
 ## Regular meeting
 
