@@ -55,12 +55,11 @@ function hfun_front_message()
     dayofweek(date_event) == 2 || @warn "The added day is not a Tuesday"
     dayofweekofmonth(date_event) == 2 || @warn "The added day is not the second Tuesday"
     text = if today > date_event # It's passed already! We put a default message
-        next_date = tonext(firstdayofmonth(date_event + Month(1))) do x
+        next_date = tonext(today) do x
             dayofweek(x) == Dates.Tuesday &&
             dayofweekofmonth(x) == 2
         end
-        next_date += Hour(19)
-        md"""
+        """
             **$(day(next_date))th of $(monthname(next_date)) at 19:00 at $(default_location())**. Topic to be announced, if you have a topic [contact us](https://github.com/julia-users-berlin/julia-users-berlin.github.io/issues/new).
         """
     else # It's coming! 
@@ -70,6 +69,6 @@ function hfun_front_message()
         """
     end
 
-    # return text
+    # return Franklin.fd2html(text; nop=true)
     return Franklin.md2html(text, stripp = true)
 end
