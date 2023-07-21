@@ -64,7 +64,7 @@ function hfun_front_message()
         """
     else # It's coming! 
         """
-            <b>$(day(date_event))th of $(monthname(next_date)) at 19:00 at $(latest_event["location"])</b>.
+            <b>$(day(date_event))th of $(monthname(date_event)) at 19:00 at $(latest_event["location"])</b>.
             $(latest_event["topic"])
         """
     end
