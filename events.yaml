@@ -2,6 +2,10 @@
   event: Meet-up
   location: c-base
   topic: "We plan to talk about our experience and interesting talks we saw at JuliaCon"
+- date: 11.07.2023
+  event: Meet-up
+  location: c-base
+  topic: "We discussed some different aspects of inference optimization"
 - date: 13.06.2023
   event: Meet-up
   location: c-base
