@@ -4,10 +4,6 @@
 
 {{ front_message }}
 
-**13th of June**, 19:00 at c-base! [strangeli](https://github.com/strangeli) will be presenting a draft version of her PhD defense.
-The title is "Distributed iterative learning control for prosumer-based microgrid models in a multiplex control framework using sampling-based analysis." 
-where she was using mainly [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) with the `EnsembleProblem()` (Monte Carlo sampling).
-
 ## Regular meeting
 
 **Date/Time :** We usually meet every 2nd Tuesday of the month at 19:00
