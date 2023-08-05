@@ -2,7 +2,7 @@
 
 ## Upcoming events
 
-{{ front_message }}
+There will be no meetup for August! Next meetup is potentially in September! Enjoy your summer!
 
 ## Regular meeting
 
