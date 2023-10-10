@@ -29,7 +29,7 @@
 - date: 13.06.2023
   event: Meet-up
   location: c-base
-  topic: "[strangeli](https://github.com/strangeli) will be presenting a draft version of her PhD defense. The title is \"Distributed iterative learning control for prosumer-based microgrid models in a multiplex control framework using sampling-based analysis.\" where she was using mainly [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) with the `EnsembleProblem()` (Monte Carlo sampling)."
+  topic: "[strangeli](https://github.com/strangeli) presented a draft version of her PhD defense. The title is \"Distributed iterative learning control for prosumer-based microgrid models in a multiplex control framework using sampling-based analysis.\" where she was using mainly [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) with the `EnsembleProblem()` (Monte Carlo sampling)."
 - date: 09.05.2023
   event: Meet-up
   location: c-base
