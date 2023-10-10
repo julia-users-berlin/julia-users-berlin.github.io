@@ -1,3 +1,19 @@
+- date: 13.02.2023
+  event: Meet-up
+  location: c-base
+  topic: ""
+- date: 09.01.2023
+  event: Meet-up
+  location: c-base
+  topic: ""
+- date: 12.12.2023
+  event: Meet-up
+  location: WIAS
+  topic: "JuliaCon in Eindhoven recap and [Adrian](https://github.com/strangeli) will be presenting [ExplainableAI.jl](https://github.com/Julia-XAI/ExplainableAI.jl)"
+- date: 14.11.2023
+  event: Meet-up
+  location: c-base
+  topic: "Intro to [Makie](https://github.com/MakieOrg/Makie.jl), Lightning presentations"
 - date: 10.10.2023
   event: Meet-up
   location: c-base
@@ -5,7 +21,7 @@
 - date: 12.09.2023
   event: Meet-up
   location: WIAS
-  topic: ""
+  topic: "Adrian talked about Julia workflows"
 - date: 11.07.2023
   event: Meet-up
   location: c-base
