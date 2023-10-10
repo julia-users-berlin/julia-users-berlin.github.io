@@ -9,7 +9,7 @@
 # - date: 12.12.2023
 #   event: Meet-up
 #   location: WIAS
-#   topic: "JuliaCon in Eindhoven recap and [Adrian](https://github.com/strangeli) will be presenting [ExplainableAI.jl](https://github.com/Julia-XAI/ExplainableAI.jl)"
+#   topic: "JuliaCon in Eindhoven recap and [Adrian](https://github.com/adrhill) will be presenting [ExplainableAI.jl](https://github.com/Julia-XAI/ExplainableAI.jl)"
 - date: 14.11.2023
   event: Meet-up
   location: c-base
@@ -21,7 +21,7 @@
 - date: 12.09.2023
   event: Meet-up
   location: WIAS
-  topic: "Adrian talked about [Julia workflows](https://modernjuliaworkflows.github.io)"
+  topic: "Adrian talked about [Modern Julia Workflows](https://modernjuliaworkflows.github.io)"
 - date: 11.07.2023
   event: Meet-up
   location: c-base
