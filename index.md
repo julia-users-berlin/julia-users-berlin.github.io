@@ -42,6 +42,11 @@ on from this page.
 
   \fig{/assets/TU-EN_location.png}
 
+## Julia Ressources in Berlin
+
+- [Julia ML Course - TU Berlin](https://github.com/adrhill/julia-ml-course)
+- [Scientific Computing - WIAS](https://www.wias-berlin.de/people/fuhrmann/SciComp-WS2021/)
+
 ## Contact
 
 Find us on [**Zulip**](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup) (preferred) or [**Slack**](https://slackinvite.julialang.org/) (join the channel `#berlinusergroup`).
