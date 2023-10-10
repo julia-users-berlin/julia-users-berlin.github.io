@@ -6,7 +6,11 @@
 
 ## Regular meeting
 
-**Date/Time :** We usually meet every 2nd Tuesday of the month at 19:00
+**Date/Time :** We usually meet every 2nd Tuesday of the month at 19:00.
+We sometimes have a short presentation on a personal project or a cool package, then followed by a "Hack and Learn" session.
+
+For this "Hack and Learn", everyone of any level is welcome to join and code/fix/create bugs! Everyone is there to help and to answer
+questions on all topics.
 
 ## Discussion topics
 
