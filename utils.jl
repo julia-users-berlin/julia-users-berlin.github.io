@@ -35,7 +35,7 @@ function hfun_event_table()
     return pretty_table(
         String,
         df;
-        nosubheader = true,
+        show_subheader = false,
         tf = tf_html_default,
         alignment = :c,
         formatters = (x, i, j) -> Franklin.md2html(x; stripp = true),

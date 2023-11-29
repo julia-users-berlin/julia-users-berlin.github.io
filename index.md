@@ -70,10 +70,10 @@ Find us on
 
 Contribute to this site [on GitHub.](https://github.com/julia-users-berlin/julia-users-berlin.github.io).
 
-## Past meetings
+## Past and future meetings
 
-Currently broken
-<!-- {{ event_table }} -->
+<!-- Currently broken -->
+{{ event_table }}
 
 ## Inclusiveness statement
 
