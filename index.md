@@ -72,7 +72,6 @@ Contribute to this site [on GitHub.](https://github.com/julia-users-berlin/julia
 
 ## Past and future meetings
 
-<!-- Currently broken -->
 {{ event_table }}
 
 ## Inclusiveness statement
