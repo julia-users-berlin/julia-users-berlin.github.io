@@ -38,7 +38,7 @@ function hfun_event_table()
         nosubheader = true,
         tf = tf_html_default,
         alignment = :c,
-        formatters = (x, i, j) -> Franklin.md2html(x, stripp = true),
+        formatters = (x, i, j) -> Franklin.md2html(x; stripp = true),
         allow_html_in_cells = true,
     )
 end
@@ -64,9 +64,9 @@ function hfun_front_message()
         """
     else # It's coming! 
         """
-            <b>$(day(date_event))th of $(monthname(date_event)) at 19:00 at $(latest_event["location"])</b>.
-            $(latest_event["topic"])
+**$(day(date_event))th of $(monthname(date_event)) at 19:00 at $(latest_event["location"])**.
+$(latest_event["topic"])
         """
     end
-    return text
+    return Franklin.md2html(text; stripp=true)
 end

@@ -53,13 +53,27 @@ on from this page.
 
 ## Contact
 
-Find us on [**Zulip**](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup) (preferred) or [**Slack**](https://slackinvite.julialang.org/) (join the channel `#berlinusergroup`).
+Find us on  
+
+-
+
+~~~
+<a href="https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup" >Zulip</a>, channel #berlinusergroup (preferred)
+~~~
+
+-
+
+~~~
+<a href="https://slackinvite.julialang.org/">Slack</a>, channel #berlinusergroup
+~~~
+
 
 Contribute to this site [on GitHub.](https://github.com/julia-users-berlin/julia-users-berlin.github.io).
 
 ## Past meetings
 
-{{ event_table }}
+Currently broken
+<!-- {{ event_table }} -->
 
 ## Inclusiveness statement
 
