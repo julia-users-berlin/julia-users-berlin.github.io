@@ -60,7 +60,7 @@ function hfun_front_message()
             dayofweekofmonth(x) == 2
         end
         """
-            **$(day(next_date))th of $(monthname(next_date)) at 19:00 at $(default_location())**. Topic to be announced, if you have a topic [contact us](https://github.com/julia-users-berlin/julia-users-berlin.github.io/issues/new).
+**$(day(next_date))th of $(monthname(next_date)) at 19:00 at $(default_location())**. Topic to be announced, if you have a topic [contact us](https://github.com/julia-users-berlin/julia-users-berlin.github.io/issues/new).
         """
     else # It's coming! 
         """
