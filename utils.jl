@@ -43,7 +43,7 @@ function hfun_event_table()
     )
 end
 
-default_location() = "<a href=https://c-base.org>c-base</a>"
+default_location() = "[c-base](https://c-base.org)"
 
 function hfun_front_message()
     today = now()
