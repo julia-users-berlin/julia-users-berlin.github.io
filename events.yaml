@@ -1,11 +1,11 @@
-# - date: 13.02.2024
-#   event: Meet-up
-#   location: c-base
-#   topic: ""
-# - date: 09.01.2024
-#   event: Meet-up
-#   location: c-base
-#   topic: ""
+- date: 13.02.2024
+  event: Meet-up
+  location: WIAS
+  topic: "Overview of monitoring services for analyzing industrial equipment Requirements of such solutions. Usage of Julia language in a startup for such a application by Richard Büssow from [Industrial Analytics](https://industrial-analytics.io/)"
+- date: 09.01.2024
+  event: Meet-up
+  location: c-base
+  topic: "Discussions around 1.10"
 - date: 12.12.2023
   event: Meet-up
   location: WIAS

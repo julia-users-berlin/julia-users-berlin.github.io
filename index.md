@@ -4,6 +4,9 @@
 
 {{ front_message }}
 
+[Fons](https://fonsp.com/) will be presenting "Julia an Pluto.jl - is scientific computing accessible?" at WIAS on Thursday 15th at 10:00. All informations available [here](https://www.zib.de/mathematics-calendar/event?oid=83223554)
+
+
 ## Regular meeting
 
 **Date/Time :** We usually meet every 2nd Tuesday of the month at 19:00.
