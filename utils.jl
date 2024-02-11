@@ -43,7 +43,7 @@ function hfun_event_table()
     )
 end
 
-default_location() = "<a href=https://c-base.org>c-base</a>"
+default_location() = "[c-base](https://c-base.org)"
 
 function hfun_front_message()
     today = now()
@@ -60,7 +60,7 @@ function hfun_front_message()
             dayofweekofmonth(x) == 2
         end
         """
-            <b>$(day(next_date))th of $(monthname(next_date)) at 19:00 at $(default_location())</b>. Topic to be announced, if you have a topic <a href=https://github.com/julia-users-berlin/julia-users-berlin.github.io/issues/new>contact us</a>.
+**$(day(next_date))th of $(monthname(next_date)) at 19:00 at $(default_location())**. Topic to be announced, if you have a topic [contact us](https://github.com/julia-users-berlin/julia-users-berlin.github.io/issues/new).
         """
     else # It's coming! 
         """
