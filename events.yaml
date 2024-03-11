@@ -1,3 +1,7 @@
+- date: 12.03.2024
+  event: Meet-up
+  location: c-base
+  topic: "Glacial isostatic adjustment (GIA) describes the deformation of the solid Earth, the perturbation of its gravity field and the shift of its rotational axis due to changes in Earth's continental ice sheets. [Jan](https://github.com/JanJereczek) will give an introduction to the topic and show some results he obtained with a GIA code he has written in Julia."
 - date: 13.02.2024
   event: Meet-up
   location: WIAS
