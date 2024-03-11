@@ -12,6 +12,8 @@ We sometimes have a short presentation on a personal project or a cool package, 
 For this "Hack and Learn", everyone of any level is welcome to join and code/fix/create bugs! Everyone is there to help and to answer
 questions on all topics.
 
+To never forget a meeting add our calendar: [Berlin Julia Users calendar](https://calendar.google.com/calendar/u/0?cid=anVsaWEtdXNlcnMtYmVybGluQHByb3Rvbi5tZQ)
+
 ## Discussion topics
 
 We keep an active list of topics we are interestd to discuss during our meetups.
