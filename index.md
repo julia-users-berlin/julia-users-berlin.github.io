@@ -2,7 +2,6 @@
 
 ## Upcoming events
 
-There is no meeting this month (May)
 {{ front_message }}
 
 ## Regular meeting
