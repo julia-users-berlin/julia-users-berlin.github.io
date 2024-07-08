@@ -2,7 +2,7 @@
 
 ## Upcoming events
 
-{{ front_message }}
+We are not meeting as usual this July but we will try to plan a post-JuliaCon session later in the month!
 
 ## Regular meeting
 
