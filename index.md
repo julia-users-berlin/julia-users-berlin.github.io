@@ -2,7 +2,7 @@
 
 ## Upcoming events
 
-We are not meeting as usual this July but we will try to plan a post-JuliaCon session later in the month!
+We are meeting for a post-JuliaCon session in Gleisdreieck this **Tuesday the 23rd of July at 19:00**, please follow messages on Zulip for the exact location.
 
 ## Regular meeting
 
