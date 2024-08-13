@@ -1,3 +1,11 @@
+- date: 13.08.2024
+  event: Social
+  location: Gleisdreieck
+  topic: "Casual meetup in Gleisdreieck."
+- date: 23.07.2024
+  event: JuliaCon
+  location: Gleisdreieck
+  topic: "Recap of [JuliaCon 2024](https://juliacon.org/2024/). We discussed our favorite talks and alternative Julia compilers."
 - date: 11.06.2024
   event: Meet-up
   location: c-base
