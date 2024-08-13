@@ -2,7 +2,9 @@
 
 ## Upcoming events
 
-We are meeting for a post-JuliaCon session in Gleisdreieck this **Tuesday the 23rd of July at 19:00**, please follow messages on Zulip for the exact location.
+We are having a social meetup at BRLO in Gleisdreieck this **Tuesday, August 13th at 19:00**.
+
+Please follow messages on the [ `#berlinusergroup`](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup) channel of the [Julia Zulip](https://julialang.zulipchat.com/) for updates and the exact location.
 
 ## Regular meeting
 
@@ -79,3 +81,4 @@ Contribute to this site [on GitHub.](https://github.com/julia-users-berlin/julia
 ## Inclusiveness statement
 
 *It seems unfortunate to have to make this statement but the computing world is not always know for its inclusivity or diversity. We are commited to welcoming anyone who is interested in joining our meet-up and will do our best to learn to communicate with them in a manner which makes them feel a full member of our community without the barriers of rank, background, gender, colour or other distinction.*
+
