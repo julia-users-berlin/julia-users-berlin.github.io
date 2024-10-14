@@ -3,7 +3,7 @@
 ## Upcoming events
 
 We are having meetup at [WIAS](https://www.wias-berlin.de/) this **Tuesday, October 15th at 19:00**. 
-Attentieon, this time it will be on the **4th floor**.
+Attention, this time it will be on the **4th floor**.
 
 This time, the discussion might focus on Julia v1.11 and relatedd stuff.
 
