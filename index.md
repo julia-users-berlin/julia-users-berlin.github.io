@@ -2,13 +2,14 @@
 
 ## Upcoming events
 
-We are having a social meetup at BRLO in Gleisdreieck this **Tuesday, August 13th at 19:00**.
+We are having meetup at [WIAS](https://www.wias-berlin.de/) this **Tuesday, October 15th at 19:00**. 
+Attentieon, this time it will be on the **4th floor**.
 
-Please follow messages on the [ `#berlinusergroup`](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup) channel of the [Julia Zulip](https://julialang.zulipchat.com/) for updates and the exact location.
+This time, the discussion might focus on Julia v1.11 and relatedd stuff.
 
 ## Regular meeting
 
-**Date/Time :** We usually meet every 2nd Tuesday of the month at 19:00.
+**Date/Time :** We usually meet every 2nd or 3rd Tuesday of the month at 19:00.
 We sometimes have a short presentation on a personal project or a cool package, then followed by a "Hack and Learn" session.
 
 For this "Hack and Learn", everyone of any level is welcome to join and code/fix/create bugs! Everyone is there to help and to answer
