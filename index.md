@@ -6,7 +6,7 @@ We are having meetup at [WIAS](https://www.wias-berlin.de/) this **Tuesday, Octo
 Attention, this time it will be on the **4th floor**.
 (Mohrenstr. 39, 10117 Berlin)
 
-This time, the discussion might focus on Julia v1.11 and relatedd stuff.
+This time, the discussion might focus on Julia v1.11 and related stuff.
 
 ## Regular meeting
 
