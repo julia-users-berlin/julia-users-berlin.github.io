@@ -2,11 +2,9 @@
 
 ## Upcoming events
 
-We are having meetup at [WIAS](https://www.wias-berlin.de/) this **Tuesday, October 15th at 19:00**. 
-Attention, this time it will be on the **4th floor**.
-(Mohrenstr. 39, 10117 Berlin)
-
-This time, the discussion might focus on Julia v1.11 and related stuff.
+We are having meetup at [WIAS (Mohrenstr. 39)](https://www.wias-berlin.de/) on **Tuesday, November 17th at 19:00**. 
+Again, it will be on the **4th floor**. 
+In the registration book at the entrance, put Dr. Fuhrmann as the person to be visited.
 
 ## Regular meeting
 
@@ -32,17 +30,19 @@ on from this page.
 
 ## Locations
 
-### [c-base](https://c-base.org)
-
-  [Rungestraße 20, 10179 Berlin](https://goo.gl/maps/QWKse8LcxxS8G1kM8)
-
 ### [WIAS](https://www.wias-berlin.de/)
 
   [Mohrenstr. 39 10117 Berlin](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
+  As the usual lecture room is beeing redecorated, we currently meet on the 4th floor.
 
   Finding WIAS:
 
   \fig{/assets/wias_location.png}
+
+
+### [c-base](https://c-base.org)
+
+  [Rungestraße 20, 10179 Berlin](https://goo.gl/maps/QWKse8LcxxS8G1kM8)
 
 ### [TU Berlin, Control Systems](www.control.tu-berlin.de)
 
