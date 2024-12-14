@@ -2,9 +2,10 @@
 
 ## Upcoming events
 
-We are having meetup at [WIAS (Mohrenstr. 39)](https://www.wias-berlin.de/) on **Tuesday, November 17th at 19:00**. 
-Again, it will be on the **4th floor**. 
-In the registration book at the entrance, put Dr. Fuhrmann as the person to be visited.
+We are having meetup at [WIAS](https://www.wias-berlin.de/) on **Tuesday, November 17th at 19:00**. 
+
+Again, it will be on the **4th floor**. <br>
+For the the registration book at the entrance: Put Dr. Fuhrmann as the person to be visited.
 
 ## Regular meeting
 
