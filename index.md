@@ -2,7 +2,7 @@
 
 ## Upcoming events
 
-We are having meetup at [WIAS](https://www.wias-berlin.de/) on **Tuesday, November 17th at 19:00**. 
+[Chris Rackauckas](https://github.com/chrisrackauckas) will give a talk on "The Numerical Analysis of Scientific Machine Learning and Differentiable Programming" at [WIAS](https://www.wias-berlin.de/) on **Tuesday, January 15th at 15:00**. 
 
 Again, it will be on the **4th floor**. \
 At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
