@@ -1,5 +1,6 @@
 ## Meet-up discussion topics
 
+- compare debugging workflows in Julia
 - horizontal layout in Pluto
 - Julia in AI
 - Julia 1.12
