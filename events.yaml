@@ -1,7 +1,7 @@
 - date: Feb-18
   event: Meet-up
   location: WIAS
-  topic: "using Pluto.jl"
+  topic: "Pluto: [PlutoVista](https://j-fu.github.io/PlutoVista.jl), combining PlutoUI elements inside markdown; Workflows: [j-fu marginalia](https://j-fu.github.io/marginalia/julia)"
 - date: 14.01.2025
   event: Talk
   location: WIAS
