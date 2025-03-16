@@ -2,7 +2,7 @@
 
 ## Upcoming events
 
-Our next regular meetup will be at [WIAS](https://www.wias-berlin.de/) on **Tuesday, February 18th at 7 pm**. 
+Our meetup this month will be on a **Monday**, February **17th** at 7 pm. Same place as the last months, at [WIAS](https://www.wias-berlin.de/). 
 
 Again, it will be on the **4th floor**. \
 At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
