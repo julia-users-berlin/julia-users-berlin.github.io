@@ -2,7 +2,9 @@
 
 ## Upcoming events
 
-Currently, there is no event planned.
+Our next meetup will be on **January 20th** at 6:30 or 7 pm. 
+As usual, at [WIAS](https://www.wias-berlin.de/). The main entrance is currently closed due to construction work, so you will have to enter from the back .
+At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
 <!-- 
 Our next meetup will be on **June 17th** at 7 pm. As usual, at [WIAS](https://www.wias-berlin.de/). 
 
@@ -11,7 +13,7 @@ At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as 
 -->
 ## Regular meeting
 
-**Date/Time :** We usually meet every **3rd Tuesday** of the month at 19:00.
+**Date/Time :** We usually meet every **3rd Tuesday** of the month at 6 or 7 pm.
 We sometimes have a short presentation on a personal project or a cool package, then followed by a "Hack and Learn" session.
 
 For this "Hack and Learn", everyone of any level is welcome to join and code/fix/create bugs! Everyone is there to help and to answer
@@ -35,9 +37,8 @@ on from this page.
 
 ### [WIAS](https://www.wias-berlin.de/)
 
-  [Mohrenstr. 39 10117 Berlin](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
-  As the usual lecture room is beeing redecorated, we currently meet on the 4th floor.
-
+  [Anton-Wilhelm-Amo-Str.(Mohrenstr.) 39 10117 Berlin](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
+  
   Finding WIAS:
 
   \fig{/assets/wias_location.png}
