@@ -3,7 +3,9 @@
 ## Upcoming events
 
 Our next meetup will be on **January 20th** at 6:30 or 7 pm. 
+
 As usual, at [WIAS](https://www.wias-berlin.de/). The main entrance is currently closed due to construction work, so you will have to enter from the back .
+
 At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
 <!-- 
 Our next meetup will be on **June 17th** at 7 pm. As usual, at [WIAS](https://www.wias-berlin.de/). 
