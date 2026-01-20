@@ -2,14 +2,14 @@
 
 ## Upcoming events
 
-Our next meetup **may** take place on **January 20th** at 6:30 or 7pm.     
+Our next meetup will probably be in **March, 2026**.     
 
-It's still uncertain, if there is enough interest in the January meetup, so if you intend to join, please say so on [Zulip](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup") by 4pm. If you are unable to access Zulip, you can check this site again at 5pm for a final decision.
+If you are interested in joining, please say so on [Zulip](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup"). 
 
+<!-- 
 The location, as usual, will be [WIAS](https://www.wias-berlin.de/). Please note, that the main entrance is currently closed due to construction work, so you will have to enter from the back.
 
 At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
-<!-- 
 Our next meetup will be on **June 17th** at 7 pm. As usual, at [WIAS](https://www.wias-berlin.de/). 
 
 Perhaps, the construction work will be finished by then, otherwise it will be on the **4th floor** again. \
