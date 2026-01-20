@@ -2,8 +2,9 @@
 
 ## Upcoming events
 
-Our next meetup may be on **January 20th** at 6:30 or 7 pm. 
-If you intend to join us, please say so on [Zulip](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup") by 4pm, because the January meetup will only be held if ≥3 people are interested. If you are unable to access Zulip, you can check this site at 5 pm again.
+Our next meetup may take place on **January 20th** at 6:30 or 7pm.     
+
+It's still uncertain, if there is enough interest in the January meetup, so if you intend to join, please say so on [Zulip](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup") by 4pm. If you are unable to access Zulip, you can check this site again at 5pm for a final decision.
 
 As usual, at [WIAS](https://www.wias-berlin.de/). The main entrance is currently closed due to construction work, so you will have to enter from the back .
 
