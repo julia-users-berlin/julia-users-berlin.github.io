@@ -15,7 +15,7 @@ At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as 
 
 Currently, meetings are scheduled on demand in the #berlinusergroup [Zulip channel](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup").
 
-<--
+<!--
 **Date/Time :** We usually meet every **3rd Tuesday** of the month at 6 or 7 pm.
 -->
 
