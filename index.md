@@ -2,11 +2,11 @@
 
 ## Upcoming events
 
-Our next meetup will probably be in **March, 2026**.     
+Our next meetup will be on **June-11th, 2026** at 6 pm.     
 
 If you are interested in joining, please say so on [Zulip](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup"). 
 
-<!-- 
+
 The location, as usual, will be [WIAS](https://www.wias-berlin.de/). Please note, that the main entrance is currently closed due to construction work, so you will have to enter from the back.
 
 At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
@@ -14,10 +14,16 @@ Our next meetup will be on **June 17th** at 7 pm. As usual, at [WIAS](https://ww
 
 Perhaps, the construction work will be finished by then, otherwise it will be on the **4th floor** again. \
 At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
--->
+
 ## Regular meeting
 
+Currently, meetings are scheduled on demand in the berlinusergroup [Zulip Channel](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup").
+
+<--
 **Date/Time :** We usually meet every **3rd Tuesday** of the month at 6 or 7 pm.
+-->
+
+
 We sometimes have a short presentation on a personal project or a cool package, then followed by a "Hack and Learn" session.
 
 For this "Hack and Learn", everyone of any level is welcome to join and code/fix/create bugs! Everyone is there to help and to answer
