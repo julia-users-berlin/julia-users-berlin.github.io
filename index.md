@@ -2,22 +2,18 @@
 
 ## Upcoming events
 
-Our next meetup will be on **June-11th, 2026** at 6 pm.     
+Our next meetup will be on **June 11th, 2026** at 6 pm.     
 
 If you are interested in joining, please say so on [Zulip](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup"). 
 
 
-The location, as usual, will be [WIAS](https://www.wias-berlin.de/). Please note, that the main entrance is currently closed due to construction work, so you will have to enter from the back.
+The location, as usual, will be [WIAS](https://www.wias-berlin.de/). 
 
-At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
-Our next meetup will be on **June 17th** at 7 pm. As usual, at [WIAS](https://www.wias-berlin.de/). 
-
-Perhaps, the construction work will be finished by then, otherwise it will be on the **4th floor** again. \
 At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
 
 ## Regular meeting
 
-Currently, meetings are scheduled on demand in the berlinusergroup [Zulip Channel](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup").
+Currently, meetings are scheduled on demand in the #berlinusergroup [Zulip channel](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup").
 
 <--
 **Date/Time :** We usually meet every **3rd Tuesday** of the month at 6 or 7 pm.
@@ -47,7 +43,7 @@ on from this page.
 
 ### [WIAS](https://www.wias-berlin.de/)
 
-  [Anton-Wilhelm-Amo-Str.(Mohrenstr.) 39 10117 Berlin](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
+  [Anton-Wilhelm-Amo-Str. (formerly: Mohrenstr.) 39 10117 Berlin](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
   
   Finding WIAS:
 
