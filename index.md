@@ -3,9 +3,9 @@
 ## Upcoming events
 
 Our next meetup will be on **June 11th, 2026** at 5 pm.     
-
+<!--
 If you are interested in joining, please say so on [Zulip](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup"). 
-
+-->
 
 The location, as usual, will be [WIAS](https://www.wias-berlin.de/). 
 
