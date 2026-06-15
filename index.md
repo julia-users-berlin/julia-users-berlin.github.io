@@ -2,7 +2,7 @@
 
 ## Upcoming events
 
-Our next meetup will be on **June 11th, 2026** at 5 pm.     
+Our next meetup will probably be on **September 15th, 2026** at 6:30 pm.     
 <!--
 If you are interested in joining, please say so on [Zulip](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup"). 
 -->
