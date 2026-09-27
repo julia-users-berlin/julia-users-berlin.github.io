@@ -1,0 +1,79 @@
+name: PR Preview
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, closed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: preview-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+env:
+  PREVIEW_PATH: previews/PR${{ github.event.pull_request.number }}
+
+jobs:
+  build-and-deploy-preview:
+    # The GITHUB_TOKEN of PRs from forks is read-only, so previews only work
+    # for branches of this repository.
+    if: github.event.action != 'closed' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: false
+    - name: Install python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.8'
+    - name: Install Julia
+      uses: julia-actions/setup-julia@v2
+      with:
+        version: 1.9
+    # `prepath` makes all links relative to the preview folder.
+    - run: julia -e '
+            using Pkg; Pkg.activate("."); Pkg.instantiate();
+            using NodeJS; run(`$(npm_cmd()) install highlight.js`);
+            using Franklin;
+            optimize(prepath=ENV["PREVIEW_PATH"])'
+    - name: Deploy preview
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        branch: gh-pages
+        folder: __site
+        target-folder: ${{ env.PREVIEW_PATH }}
+        clean: true
+    - name: Comment preview link
+      uses: marocchino/sticky-pull-request-comment@v2
+      with:
+        header: preview
+        message: |
+          🔍 Preview of this PR is available at https://julia-users-berlin.github.io/${{ env.PREVIEW_PATH }}/
+          (built from ${{ github.event.pull_request.head.sha }}; it may take a minute for GitHub Pages to update)
+
+  cleanup-preview:
+    if: github.event.action == 'closed' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout gh-pages
+      uses: actions/checkout@v4
+      with:
+        ref: gh-pages
+    - name: Remove preview
+      run: |
+        if [ -d "$PREVIEW_PATH" ]; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -rf "$PREVIEW_PATH"
+          git commit -m "Remove preview for PR #${{ github.event.pull_request.number }}"
+          git push
+        fi
+    - name: Update comment
+      uses: marocchino/sticky-pull-request-comment@v2
+      with:
+        header: preview
+        message: |
+          🧹 Preview removed since the PR was closed.
