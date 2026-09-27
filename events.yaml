@@ -2,11 +2,11 @@
   event: Meet-up
   location: WIAS
   topic: "Simon will make a presentation on his work on Makie."
-- date: 2026-June-11
+- date: 2026.06.11
   event: Meet-up
   location: WIAS
   topic: ""
-- date: Feb-18
+- date: 2026.02.18
   event: Meet-up
   location: WIAS
   topic: "Pluto: [PlutoVista](https://j-fu.github.io/PlutoVista.jl), combining PlutoUI elements inside markdown; Workflows: [j-fu marginalia](https://j-fu.github.io/marginalia/julia)"
