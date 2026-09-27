@@ -22,17 +22,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
       with:
         persist-credentials: false
     - name: Install python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v7
       with:
-        python-version: '3.8'
+        python-version: '3.12'
     - name: Install Julia
-      uses: julia-actions/setup-julia@v2
+      uses: julia-actions/setup-julia@v3
       with:
-        version: 1.9
+        version: '1.12'
+    - uses: julia-actions/cache@v3
     # `prepath` makes all links relative to the preview folder.
     - run: julia -e '
             using Pkg; Pkg.activate("."); Pkg.instantiate();
@@ -46,20 +47,30 @@ jobs:
         folder: __site
         target-folder: ${{ env.PREVIEW_PATH }}
         clean: true
+    # GitHub Pages rebuilds after the push, so wait until the preview is live
+    # before posting the link.
+    - name: Wait for GitHub Pages
+      run: |
+        url="https://julia-users-berlin.github.io/$PREVIEW_PATH/?v=${{ github.event.pull_request.head.sha }}"
+        for i in $(seq 60); do
+          curl -sf -o /dev/null "$url" && exit 0
+          sleep 10
+        done
+        echo "::warning::Preview not reachable after 10 minutes"
     - name: Comment preview link
-      uses: marocchino/sticky-pull-request-comment@v2
+      uses: marocchino/sticky-pull-request-comment@v3
       with:
         header: preview
         message: |
           🔍 Preview of this PR is available at https://julia-users-berlin.github.io/${{ env.PREVIEW_PATH }}/
-          (built from ${{ github.event.pull_request.head.sha }}; it may take a minute for GitHub Pages to update)
+          (built from ${{ github.event.pull_request.head.sha }})
 
   cleanup-preview:
     if: github.event.action == 'closed' && github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     steps:
     - name: Checkout gh-pages
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
       with:
         ref: gh-pages
     - name: Remove preview
@@ -72,7 +83,7 @@ jobs:
           git push
         fi
     - name: Update comment
-      uses: marocchino/sticky-pull-request-comment@v2
+      uses: marocchino/sticky-pull-request-comment@v3
       with:
         header: preview
         message: |
