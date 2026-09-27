@@ -1,0 +1,14 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
+Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
+NodeJS = "2bd173c7-0d6d-553b-b6af-13a54713934c"
+PrettyTables = "08abe8d2-0d0c-5749-adfa-8a2ac140af0d"
+YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
+
+[compat]
+DataFrames = "1"
+Franklin = "0.10"
+PrettyTables = "2"
+YAML = "0.4"
