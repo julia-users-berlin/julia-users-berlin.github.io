@@ -2,10 +2,9 @@
 
 ## Upcoming events
 
-Our next meetup will probably be on **September 15th, 2026** at 6:30 pm.     
-<!--
-If you are interested in joining, please say so on [Zulip](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup"). 
--->
+Our next meetup will probably be on **October 19th, 2026** at 6:30 pm.
+
+[Simon](https://github.com/SimonDanisch) will present [Makie.jl](https://github.com/MakieOrg/Makie.jl)
 
 The location, as usual, will be [WIAS](https://www.wias-berlin.de/). 
 
@@ -16,7 +15,7 @@ At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as 
 Currently, meetings are scheduled on demand in the #berlinusergroup [Zulip channel](https://julialang.zulipchat.com/#narrow/stream/249782-berlinusergroup").
 
 <!--
-**Date/Time :** We usually meet every **3rd Tuesday** of the month at 6 or 7 pm.
+**Date/Time :** We usually meet every **3rd Monday** of the month at 18:30.
 -->
 
 
@@ -39,7 +38,7 @@ on from this page.
 </div>
 ~~~
 
-## Locations
+## Location
 
 ### [WIAS](https://www.wias-berlin.de/)
 
@@ -48,19 +47,6 @@ on from this page.
   Finding WIAS:
 
   \fig{/assets/wias_location.png}
-
-
-### [c-base](https://c-base.org)
-
-  [Rungestraße 20, 10179 Berlin](https://goo.gl/maps/QWKse8LcxxS8G1kM8)
-
-### [TU Berlin, Control Systems](www.control.tu-berlin.de)
-
-  [Einsteinufer 17, 10587 Berlin](https://www.openstreetmap.org/way/26499336#map=18/52.51505/13.32682)
-
-  Finding TU Berlin, EN building:
-
-  \fig{/assets/TU-EN_location.png}
 
 ## Julia Ressources in Berlin
 
@@ -92,5 +78,5 @@ Contribute to this site [on GitHub.](https://github.com/julia-users-berlin/julia
 
 ## Inclusiveness statement
 
-*It seems unfortunate to have to make this statement but the computing world is not always know for its inclusivity or diversity. We are commited to welcoming anyone who is interested in joining our meet-up and will do our best to learn to communicate with them in a manner which makes them feel a full member of our community without the barriers of rank, background, gender, colour or other distinction.*
+*We are commited to welcoming anyone who is interested in joining our meet-up and will do our best to learn to communicate with them in a manner which makes them feel a full member of our community without the barriers of rank, background, gender, colour or other distinction.*
 
