@@ -9,6 +9,7 @@ YAML = "ddb6d928-2868-570f-bddf-ab3f9cf99eb6"
 
 [compat]
 DataFrames = "1.8"
+Dates = "1.11"
 Franklin = "0.10.97"
 NodeJS = "2"
 PrettyTables = "2.4"
