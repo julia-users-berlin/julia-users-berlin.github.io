@@ -35,10 +35,10 @@ function hfun_event_table()
     return pretty_table(
         String,
         df;
-        show_subheader = false,
-        tf = tf_html_default,
+        backend = :html,
+        column_labels = names(df),
         alignment = :c,
-        formatters = (x, i, j) -> Franklin.md2html(x; stripp = true),
+        formatters = [(x, i, j) -> Franklin.md2html(x; stripp = true)],
         allow_html_in_cells = true,
     )
 end

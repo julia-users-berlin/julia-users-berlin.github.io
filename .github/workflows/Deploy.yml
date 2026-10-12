@@ -42,13 +42,13 @@ jobs:
     #   (code highlighting + katex prerendering).
     #   Then the environment is activated and instantiated to install all
     #   Julia packages which may be required to successfully build your site.
-    #   The last line should be `optimize()` though you may want to give it
-    #   specific arguments, see the documentation or ?optimize in the REPL.
+    #   `fail_on_warning` makes the build fail instead of deploying a site
+    #   with missing pages when a page cannot be rendered.
     - run: julia -e '
             using Pkg; Pkg.activate("."); Pkg.instantiate();
             using NodeJS; run(`$(npm_cmd()) install highlight.js`);
             using Franklin;
-            optimize()'
+            optimize(fail_on_warning=true)'
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       with:
