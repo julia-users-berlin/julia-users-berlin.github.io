@@ -1,4 +1,0 @@
-Sitemap: https://julia-users-berlin.github.io/sitemap.xml
-
-User-agent: *
-Disallow:
