@@ -42,7 +42,8 @@ on from this page.
 
 ### [WIAS](https://www.wias-berlin.de/)
 
-  [Anton-Wilhelm-Amo-Str. (formerly: Mohrenstr.) 39 10117 Berlin](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
+  - [Anton-Wilhelm-Amo-Str. (formerly: Mohrenstr.) 39 10117 Berlin](https://goo.gl/maps/v8o2CuL4NPgbWKBj9)
+  - As the main building closes at 19:00, the meeting will take place in the building Hausvogteiplatz 11a (across the place between the Thai restaurant and the bakery. If you are late, please notify us on zulip/slack (j-fu/Jürgen Fuhrmann).
   
   Finding WIAS:
 
