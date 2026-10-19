@@ -8,6 +8,8 @@ Our next meetup will probably be on **October 19th, 2026** at 6:30 pm.
 
 The location, as usual, will be [WIAS](https://www.wias-berlin.de/). 
 
+As the main building closes at 19:00, the meeting will take place in the building Hausvogteiplatz 11a (across the place between the Thai restaurant and the bakery. If you are late, please notify us on zulip/slack (j-fu/Jürgen Fuhrmann).
+
 At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
 
 ## Regular meeting
