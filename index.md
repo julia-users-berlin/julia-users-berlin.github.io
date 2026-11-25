@@ -2,13 +2,13 @@
 
 ## Upcoming events
 
-Our next meetup will probably be on **October 19th, 2026** at 6:30 pm.
+There will be an informal meeting on **November 27th, 2026** at 4:30 pm.
 
-[Simon](https://github.com/SimonDanisch) will present [Makie.jl](https://github.com/MakieOrg/Makie.jl)
+Fons van der Plaas, former regular member, will be visiting as a special guest. 
 
 The location, as usual, will be [WIAS](https://www.wias-berlin.de/). 
 
-As the main building closes at 19:00, the meeting will take place in the building Hausvogteiplatz 11a (across the place between the Thai restaurant and the bakery. If you are late, please notify us on zulip/slack (j-fu/Jürgen Fuhrmann).
+<!--As the main building closes at 19:00, the meeting will take place in the building Hausvogteiplatz 11a (across the place between the Thai restaurant and the bakery. If you are late, please notify us on zulip/slack (j-fu/Jürgen Fuhrmann).-->
 
 At the entrance, there is a registration book for guests. Enter Dr. Fuhrmann as the person to be visited.
 
