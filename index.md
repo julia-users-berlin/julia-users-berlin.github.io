@@ -4,7 +4,7 @@
 
 There will be an informal meeting on **November 27th, 2026** at 4:30 pm.
 
-Fons van der Plaas, former regular member, will be visiting as a special guest. 
+Fons van der Plas, former regular member, will be visiting as a special guest. 
 
 The location, as usual, will be [WIAS](https://www.wias-berlin.de/). 
 
